@@ -1,0 +1,28 @@
+body {
+    font-family: 'Times New Roman', serif;
+    background-color: #f5e1c8;
+    color: #5a3e2b;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #e8c4a0;
+    border: 2px solid #a67c52;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 28px;
+    color: #7a4f34;
+}
+
+.info {
+    font-size: 18px;
+    line-height: 1.6;
+}
